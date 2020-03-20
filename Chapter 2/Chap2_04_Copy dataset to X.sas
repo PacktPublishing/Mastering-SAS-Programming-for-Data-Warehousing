@@ -1,0 +1,9 @@
+LIBNAME X "/folders/myfolders/X";
+run;
+DATA X.THREEROWS_COPY2;
+	set THREEROWS;
+run;
+PROC DATASETS LIB = WORK;
+PROC DATASETS LIB = X;
+QUIT;
+RUN;

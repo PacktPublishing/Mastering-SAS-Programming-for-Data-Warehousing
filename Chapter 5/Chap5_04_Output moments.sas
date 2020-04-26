@@ -1,6 +1,6 @@
-ods output Moments = X.Age_Moments;
-proc univariate data=X.chap5_1;
+ODS OUTPUT Moments = X.Age_Moments;
+PROC UNIVARIATE data=X.chap5_1;
 	var _AGE80;
 run;
-proc contents data=X.Age_Moments VARNUM;
+PROC CONTENTS data=X.Age_Moments VARNUM;
 run;

@@ -1,3 +1,3 @@
 LIBNAME X "/folders/myfolders/X";
-proc contents data=X.Chap5_1;
+PROC CONTENTS data=X.Chap5_1;
 run;

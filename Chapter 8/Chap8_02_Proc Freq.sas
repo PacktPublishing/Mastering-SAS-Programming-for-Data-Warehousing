@@ -1,0 +1,11 @@
+PROC FREQ data=brfss_a;
+tables DIABETE3 / missing;
+WHERE _STATE = 12;
+title "PROC FREQ with Florida only";
+run;
+%LET selected_state = 12;
+PROC FREQ data=brfss_a;
+tables DIABETE3 / missing;
+WHERE _STATE = &selected_state;
+title "PROC FREQ with _STATE=&&selected_state only";
+run;

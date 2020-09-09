@@ -1,0 +1,8 @@
+FILENAME REFFILE '/folders/myfolders/X/vet_2010_5yrEarnings.csv';
+PROC IMPORT DATAFILE=REFFILE
+	DBMS=CSV
+	OUT=WORK.vet_a;
+	GETNAMES=YES;
+RUN;
+PROC CONTENTS DATA=vet_a;
+RUN;

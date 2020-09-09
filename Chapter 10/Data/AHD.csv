@@ -1,0 +1,57 @@
+State_Desc,Number_Hospitals,Staffed_Beds
+AK - Alaska,10,1235
+AL - Alabama,89,15335
+AR - Arkansas,52,7872
+AS - American Samoa,1,0
+AZ - Arizona,73,13416
+CA - California,344,74724
+CO - Colorado,55,8181
+CT - Connecticut,34,8798
+DC - Washington D.C.,7,2117
+DE - Delaware,8,2072
+FL - Florida,215,56245
+GA - Georgia,112,22521
+GU - Guam,3,306
+HI - Hawaii,14,2583
+IA - Iowa,39,6426
+ID - Idaho,19,2455
+IL - Illinois,143,29137
+IN - Indiana,101,16026
+KS - Kansas,55,6341
+KY - Kentucky,74,13634
+LA - Louisiana,108,15061
+MA - Massachusetts,73,15192
+MD - Maryland,53,10802
+ME - Maine,19,2887
+MI - Michigan,105,23681
+MN - Minnesota,55,10504
+MO - Missouri,83,16705
+MP - Northern Mariana Islands,1,74
+MS - Mississippi,69,10049
+MT - Montana,17,2202
+NC - North Carolina,108,22353
+ND - North Dakota,10,2003
+NE - Nebraska,26,4245
+NH - New Hampshire,14,2276
+NJ - New Jersey,78,20213
+NM - New Mexico,37,3887
+NV - Nevada,31,5726
+NY - New York,186,57299
+OH - Ohio,147,27088
+OK - Oklahoma,90,10287
+OR - Oregon,37,6139
+PA - Pennsylvania,176,34791
+PR - Puerto Rico,52,8247
+RI - Rhode Island,11,2440
+SC - South Carolina,66,11759
+SD - South Dakota,24,2741
+TN - Tennessee,100,18446
+TX - Texas,361,58370
+UT - Utah,35,4640
+VA - Virginia,90,17759
+VI - Virgin Islands,2,184
+VT - Vermont,7,835
+WA - Washington,62,10322
+WI - Wisconsin,77,11080
+WV - West Virginia,34,5396
+WY - Wyoming,14,1261

@@ -1,0 +1,57 @@
+State_FIPS,State_Abbrev,State_Desc
+1,AL,AL - Alabama
+2,AK,AK - Alaska
+4,AZ,AZ - Arizona
+5,AR,AR - Arkansas
+6,CA,CA - California
+8,CO,CO - Colorado
+9,CT,CT - Connecticut
+10,DE,DE - Delaware
+11,DC,DC - Washington D.C.
+12,FL,FL - Florida
+13,GA,GA - Georgia
+15,HI,HI - Hawaii
+16,ID,ID - Idaho
+17,IL,IL - Illinois
+18,IN,IN - Indiana
+19,IA,IA - Iowa
+20,KS,KS - Kansas
+21,KY,KY - Kentucky
+22,LA,LA - Louisiana
+23,ME,ME - Maine
+24,MD,MD - Maryland
+25,MA,MA - Massachusetts
+26,MI,MI - Michigan
+27,MN,MN - Minnesota
+28,MS,MS - Mississippi
+29,MO,MO - Missouri
+30,MT,MT - Montana
+31,NE,NE - Nebraska
+32,NV,NV - Nevada
+33,NH,NH - New Hampshire
+34,NJ,NJ - New Jersey
+35,NM,NM - New Mexico
+36,NY,NY - New York
+37,NC,NC - North Carolina
+38,ND,ND - North Dakota
+39,OH,OH - Ohio
+40,OK,OK - Oklahoma
+41,OR,OR - Oregon
+42,PA,PA - Pennsylvania
+44,RI,RI - Rhode Island
+45,SC,SC - South Carolina
+46,SD,SD - South Dakota
+47,TN,TN - Tennessee
+48,TX,TX - Texas
+49,UT,UT - Utah
+50,VT,VT - Vermont
+51,VA,VA - Virginia
+53,WA,WA - Washington
+54,WV,WV - West Virginia
+55,WI,WI - Wisconsin
+56,WY,WY - Wyoming
+60,AS,AS - American Samoa
+66,GU,GU - Guam
+69,MP,MP - Northern Mariana Islands
+72,PR,PR - Puerto Rico
+78,VI,VI - Virgin Islands

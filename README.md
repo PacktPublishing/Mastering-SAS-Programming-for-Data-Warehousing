@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/mastering-sas-programming-video/9781788291248)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Mastering SAS Programming
 
 <a href="https://www.packtpub.com/programming/mastering-sas-programming?utm_source=github&utm_medium=repository&utm_campaign=9781789532371"><img src="https://static.packt-cdn.com/products/9781789532371/cover/smaller" alt="Mastering SAS Programming" height="256px" align="right"></a>

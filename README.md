@@ -55,7 +55,3 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Monika Wahi**, MPH, CPH, is a well-published epidemiologist, biostatistician, informaticist, and data scientist. For over 20 years, Monika has worked at various governmental organizations and non-profits, and led consulting projects in academia and for governments both in the United States and internationally. She is President of DethWench Professional Services (DPS), which offers consulting and training in data science, specializing in public health and healthcare. Monika is proficient in SAS, R, Excel, and SQL, and is the author of many articles and online courses in data science and health data analytics.
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789532371">https://packt.link/free-ebook/9781789532371 </a> </p>
